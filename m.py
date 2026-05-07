@@ -186,4 +186,4 @@ def all_messages(message):
 # START POLLING
 # =========================
 print("Bot Started...")
-bot.infinity_polling()a
+bot.infinity_polling()
